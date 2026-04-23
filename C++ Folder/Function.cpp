@@ -20,7 +20,7 @@ If parameters are given to the function. Then, it's a parameterised code.
 using namespace std;
 
 void printName(string name){
-    cout << "Hey " << name <<endl;
+    cout << "Hello " << name <<endl;
 }
 int main(){
 string name;
